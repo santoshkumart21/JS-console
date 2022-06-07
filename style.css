@@ -1,0 +1,10 @@
+input {
+  width: 90%;
+  outline: none;
+  text-decoration: none;
+  border: transparent;
+}
+/* textarea:focus,
+input:focus {
+  outline: none;
+} */
